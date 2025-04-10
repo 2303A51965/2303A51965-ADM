@@ -11,4 +11,4 @@ ssignmnet19:- https://github.com/2303A51965/2303A51965-ADM/blob/main/Assignment%
 Assignmnet10 activity :- https://github.com/2303A51965/2303A51965-ADM/blob/main/Assignment%2010%20activity.ipynb
 Assignmnet11 :- https://github.com/2303A51965/2303A51965-ADM/blob/main/Assignment%2011.ipynb
 Assignmnet12 :- https://github.com/2303A51965/2303A51965-ADM/blob/main/Assignemnt12.ipynb
-Lab Test 1 :-
+Lab Test 1 :- https://github.com/2303A51965/2303A51965-ADM/blob/main/LAB_TEST_01.ipynb
