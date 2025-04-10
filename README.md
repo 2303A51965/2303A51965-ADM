@@ -1,7 +1,7 @@
 # 2303A51965-ADM
 Assignment1 :- https://github.com/2303A51965/2303A51965-ADM/blob/main/Assignment%201.ipynb
 Assignmnet2 :- https://github.com/2303A51965/2303A51965-ADM/blob/main/Assignment2.ipynb
-Assignmnet3 :-
+Assignmnet3 :- https://github.com/2303A51965/2303A51965-ADM/blob/main/Assignment%203.ipynb
 Assignmnet4 :-
 Assignmnet5 :-
 Assignmnet6 :-
